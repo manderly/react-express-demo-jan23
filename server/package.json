@@ -1,0 +1,27 @@
+{
+  "name": "react-express-demo-jan23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "dotenv -e .env node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manderly/react-express-demo-jan23.git"
+  },
+  "author": "mjb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manderly/react-express-demo-jan23/issues"
+  },
+  "homepage": "https://github.com/manderly/react-express-demo-jan23#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^6.0.0"
+  }
+}
